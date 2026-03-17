@@ -108,8 +108,3 @@ CICIDS2017 — Canadian Institute for Cybersecurity
 
 ## Author
 Developed as a college mini project.
-```
-
-Then scroll down, add commit message:
-```
-Add detailed README
